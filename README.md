@@ -1,4 +1,20 @@
 # Приложение(SPA) Макет-БЛОГ
+img src="https://github.com/Yurbol2014/img/blob/main/Serfing.png" alt="serfing">
+
+### Используемые технологии: React,JS,CSS,HTML
+### Что из React применял:
+### "React Элементы",
+### "React Компоненты",
+### "Props - свойства компонентов",
+### "Массивы, как свойства компонентов",
+### "Коллекции и ключи",
+### "Структура React проекта",
+### "setState() - редактирование элементов",
+### "Работа с формами"
+
+## ДЕПЛОЙ ПРОЕКТА
+
+### https://todo-list-react-red-two.vercel.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
